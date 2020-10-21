@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "truffle",
+			"path": "truffle"
+		},
+		{
+			"name": "inbox-1",
+			"path": "../inbox-1"
+		}
+	],
+	"settings": {
+		"solidity.compileUsingRemoteVersion": "v0.4.17+commit.bdeb9e52"
+	}
+}
